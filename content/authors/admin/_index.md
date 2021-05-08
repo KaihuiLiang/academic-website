@@ -4,9 +4,7 @@ role: PhD student in Natural Language Processing at Columbia University.
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,9 +39,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Kai-Hui Liang, and I'm a PhD student at the Natural Language Processing Lab at Columbia University advised by Professor Zhou Yu, \
+\
+​My research focus on dialog systems, including open-domain social bot, behavior-change chatbots, and education chatbot. My central research interest is to investigate dialog strategies that make the conversation more engaging and effective in achieving the goal.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
