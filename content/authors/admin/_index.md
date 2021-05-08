@@ -1,6 +1,6 @@
 ---
 title: Kai-Hui Liang
-role: PhD student in Natural Language Processing at Columbia University.
+role: PhD student in Natural Language Processing
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Columbia University
+    url: https://www.columbia.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
